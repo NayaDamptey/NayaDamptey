@@ -21,4 +21,4 @@
 
 ---
 
-> “Behind every great dashboard is a caffeine-fueled analyst writing clean SQL.” ☕📈  
+> “Behind every great data project is a caffeine-fueled analyst writing clean SQL.” ☕📈  
