@@ -14,6 +14,10 @@
 ![Power BI](https://img.shields.io/badge/-Power%20BI-F2C811?style=flat&logo=power-bi&logoColor=black)
 
 ---
+### 📜 Certifications
+- 🎓 [Microsoft Power BI Analyst](https://coursera.org/share/2cf456de01b18bba28610c83e19a3b4e)  
+- 🎓 [Enterprise Data Integration, Governance and Architecture](https://www.coursera.org/account/accomplishments/specialization/SPCNUWS8VUPO)  
+
 
 ### 🔗 Connect with Me
 [![LinkedIn](https://img.shields.io/badge/-LinkedIn-blue?style=flat&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/nana-yaa-damptey/)
