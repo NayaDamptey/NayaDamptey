@@ -7,11 +7,13 @@
 ---
 
 ### 🛠️ Tech Stack
-![SQL Server](https://img.shields.io/badge/-SQL%20Server-CC2927?style=flat&logo=microsoftsqlserver&logoColor=white)
-![ETL](https://img.shields.io/badge/-ETL-blueviolet)
-![Python](https://img.shields.io/badge/-Python-3776AB?style=flat&logo=python&logoColor=white)
-![API](https://img.shields.io/badge/-API-39A2DB?style=flat&logo=api&logoColor=white)
-![Power BI](https://img.shields.io/badge/-Power%20BI-F2C811?style=flat&logo=power-bi&logoColor=black)
+**Backend Scripting**: ![SQL Server](https://img.shields.io/badge/-SQL%20Server-CC2927?style=flat&logo=microsoftsqlserver&logoColor=white) ![Python](https://img.shields.io/badge/-Python-3776AB?style=flat&logo=python&logoColor=white)
+
+**Database backups**: ![ETL](https://img.shields.io/badge/-ETL-blueviolet)
+
+**Data Integration**: ![REST API](https://img.shields.io/badge/-REST%20API-39A2DB?style=flat&logo=swagger&logoColor=white)
+
+**Data Visualization**: ![Power BI](https://img.shields.io/badge/-Power%20BI-F2C811?style=flat&logo=power-bi&logoColor=black)
 
 ---
 ### 📜 Certifications
