@@ -13,6 +13,8 @@
 
 **Data Integration**: ![REST API](https://img.shields.io/badge/-REST%20API-39A2DB?style=flat&logo=swagger&logoColor=white)
 
+**Version Control**: ![Git](https://img.shields.io/badge/-Git-F05032?style=flat&logo=git&logoColor=white) ![GitHub](https://img.shields.io/badge/-GitHub-181717?style=flat&logo=github&logoColor=white)
+
 **Data Visualization**: ![Power BI](https://img.shields.io/badge/-Power%20BI-F2C811?style=flat&logo=power-bi&logoColor=black)
 
 ---
