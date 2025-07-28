@@ -2,7 +2,7 @@
 
 💾 Data Migration & Implementation Specialist  <br>
 📊 I ensure seamless data migrations and implementations using advanced SQL and ETL tools  <br>
-☕ Fun Fact: I LOVE COFFEE!! — I'm not screaming, I just use a lot of SQL
+☕ Fun Fact: I LOVE COFFEE!! I'm not screaming, I just use a lot of SQL
 
 ---
 
