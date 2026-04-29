@@ -56,7 +56,6 @@ I specialise in designing and executing **data migrations** across systems, ensu
 
 ## 📜 Certifications
 
-- 🎓 [Microsoft Power BI Data Analyst](https://coursera.org/share/2cf456de01b18bba28610c83e19a3b4e) — Microsoft · via Coursera
 - 🎓 [Enterprise Data Integration, Governance & Architecture](https://www.coursera.org/account/accomplishments/specialization/SPCNUWS8VUPO) — Specialization · via Coursera
 
 ---
